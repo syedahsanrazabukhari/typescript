@@ -28,7 +28,7 @@ console.log(m);
 let firstName: string = "Syed"
 let middleName: string = "Ahsan"
 let lasttName: string = "Raza"
-// firstName          lastname
+
 let fullName = firstName + ' ' + middleName + ' ' + lasttName
 // for space
 console.log(fullName);
@@ -39,7 +39,7 @@ console.log(fullName);
 let firstName1: string = "Syed"
 let middleName2: string = "Ahsan"
 let lasttName3: string = "Raza"
-let fullNamee = `${firstName1} ${middleName2} ${lasttName3}` 
+let fullNamee = `${firstName1} ${middleName2} ${lasttName3}`
 console.log(fullNamee);
 
 

@@ -71,7 +71,6 @@ Ye start main likh skte hn
 
 
 
-
 ## Class 5
 - type anotation: variable ki type define krna type anotation kehlati hai
 - type inference: variable ki type define nhi ki ho aur typescript khud indentify krle value ko dekh kr tou isko type inference kehtay hai
@@ -89,3 +88,18 @@ Ye start main likh skte hn
 ### Strings
 - stringconcatination: `console.log("My name is "+ variable)`
 - template literal: `console.log('My name is ${variable}')`
+
+## class-7
+### operators
+ - addition(+)
+ - subtraction (-)
+ - multiplication (*)
+ - division (/)
+ - exponantation(**) (power)
+ - Modules (%) (remainder)
+ - Unary operators (++) (--)
+ - 
+ - 
+ - 
+ - 
+ - 
